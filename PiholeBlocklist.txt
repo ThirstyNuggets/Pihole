@@ -1,0 +1,15 @@
+metrika.yandex.ru
+appmetrica.yandex.ru
+log.fc.yahoo.com
+udcm.yahoo.com
+w1.luckyorange.com
+cdn.luckyorange.com
+realtime.luckyorange.com
+api.luckyorange.com
+fwtracks.freshmarketer.com
+claritybt.freshmarketer.com
+surveys.hotjar.com
+insights.hotjar.com
+identify.hotjar.com
+tools.mouseflow.com
+api.mouseflow.com
