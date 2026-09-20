@@ -13,3 +13,7 @@ insights.hotjar.com
 identify.hotjar.com
 tools.mouseflow.com
 api.mouseflow.com
+api.bugsnag.com
+app.bugsnag.com
+browser.sentry-cdn.com
+app.getsentry.com
